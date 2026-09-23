@@ -14,7 +14,7 @@ Nhưng **GitHub Pages chưa được BẬT** ❌
 ### Bước 1
 Mở link này (đăng nhập GitHub trước):
 
-**https://github.com/TRANTHAINGUYENDEVDEVELOPER117-GOCODER/easy-english/settings/pages**
+**https://github.com/GlobalEnglishCenter/easy-english/settings/pages**
 
 ### Bước 2
 Tìm mục **"Build and deployment"**
@@ -40,12 +40,12 @@ Deploy from a branch
 
 Bạn sẽ thấy hộp màu xanh:
 
-> ✅ Your site is live at **https://tranthainguyendevdeveloper117-gocoder.github.io/easy-english/**
+> ✅ Your site is live at **https://globalenglishcenter.github.io/easy-english/**
 
 ### Bước 6
 Bấm link đó hoặc mở:
 
-**https://tranthainguyendevdeveloper117-gocoder.github.io/easy-english/**
+**https://globalenglishcenter.github.io/easy-english/**
 
 ---
 
