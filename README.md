@@ -2,8 +2,8 @@
 
 Trang web khóa học tiếng Anh giao tiếp **No-Think Speak**.
 
-- **Hotline:** 0905 886 970 — Thảo Phương
-- **Tư vấn:** Telegram (không làm việc qua Zalo)
+- **Hotline:** 0773 026 341 — Thảo Phương
+- **Tư vấn:** Telegram
 - **Học phí:** 5.470.000đ / 8 tuần
 
 ## Link trang web (miễn phí)
