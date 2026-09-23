@@ -2,7 +2,7 @@
 
 Trang web khóa học tiếng Anh giao tiếp **No-Think Speak**.
 
-- **Hotline:** 0773 026 341 — Thảo Phương
+- **Hotline:** 0773 026 341 — Global English Center
 - **Tư vấn:** Telegram
 - **Học phí:** 5.470.000đ / 8 tuần
 
